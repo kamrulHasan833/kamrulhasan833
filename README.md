@@ -4,10 +4,8 @@ development role.
 
 ## Sterk State
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=1280)](https://git.io/streak-stats)
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,bootstrap,html,css,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,bootstrap,html,css,figma,vscode)](https://skillicons.dev)
