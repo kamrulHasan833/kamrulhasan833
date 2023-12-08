@@ -1,16 +1,13 @@
-### Hi there 👋
+[![An old rock in the desert](./assets/images/gitHubBanner.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/kamrulhasan-wd/)
+I have a passion for creating dynamic and user friendly web applications using react, node, express, monboDB, javaScript, taiwind css, scss, mui and other related framework and libraries. Also adept at collaborating with cross-functional teams to analyze requirements, design innovative features, and implement scalable systems. Seeking to contribute my skills and enthusiasm for cutting-edge technologies in a challenging
+development role.
 
-<!--
-**kamrulHasan833/kamrulhasan833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sterk State
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,bootstrap,html,css,figma,vscode)](https://skillicons.dev)
