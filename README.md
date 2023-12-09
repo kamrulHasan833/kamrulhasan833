@@ -1,8 +1,4 @@
 <style>
-    .social{
-        font-size:20px;
-        color:white;
-    }
     .flex{display:flex; gap:16px; justify-content:center;
     flex-wrap:wrap;
     }
