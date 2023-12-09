@@ -26,6 +26,6 @@ Results-driven MERN Stack Web Developer with a passion for creating dynamic and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasan833)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social
-<div align="center">
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamrulhasan833) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamrulhasan-wd/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamrulhasan.wd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Kamrul3496)
-</div>
+
