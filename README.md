@@ -19,6 +19,7 @@ Results-driven MERN Stack Web Developer with a passion for creating dynamic and 
 <p align="center">
 <a 
     href="https://skillicons.dev"> <img align="center" src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,bootstrap,html,css,figma,vscode"/></a></p>
+    
 ## Overview
 
 <div align="center"
