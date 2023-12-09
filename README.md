@@ -1,5 +1,3 @@
-
-
 [![An old rock in the desert](./assets/images/gitHubBanner.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/kamrulhasan-wd/)
 
 ### Hi there 👋, Kamrul Hasan
@@ -23,7 +21,7 @@ Results-driven MERN Stack Web Developer with a passion for creating dynamic and 
 
 ## Overview
 
-<div style="display:flex; gap:16px; justify-content:center;
+<div align="center"
     flex-wrap:wrap;" ><img src="https://github-readme-stats.vercel.app/api?username=kamrulhasan833&show_icons=true"/>
 <a  href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasan833"/></a>
 </div>
