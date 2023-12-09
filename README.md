@@ -30,7 +30,7 @@ Results-driven MERN Stack Web Developer with a passion for creating dynamic and 
 ## Social
 
 <div align="center"
-    flex-wrap:wrap;" >
+    >
 <a href="https://github.com/kamrulhasan833">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'  alt='github' height='40'>
 </a>
