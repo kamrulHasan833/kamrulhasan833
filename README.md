@@ -12,12 +12,12 @@ Results-driven MERN Stack Web Developer with a passion for creating dynamic and 
 ## Streak Stats
 
 <a align="center"
-    flex-wrap:wrap;"  href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=dark&hide_border=true&card_width=600&background=1D102E"/></a>
+   href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=dark&hide_border=true&card_width=600&background=1D102E"/></a>
 
 ## Technologies
 
 <a align="center"
-    flex-wrap:wrap;"  href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,bootstrap,html,css,figma,vscode"/></a>
+    href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,bootstrap,html,css,figma,vscode"/></a>
 
 ## Overview
 
