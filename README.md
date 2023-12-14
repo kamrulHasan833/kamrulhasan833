@@ -12,19 +12,19 @@ Results-driven MERN Stack Web Developer with a passion for creating dynamic and 
 ## Streak Stats
 
 <p align="center"><a
-   href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=dark&hide_border=true&card_width=600&background=1D102E"/></a></p> 
+   href="https://kamrulhasan-1e064.web.app"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=dark&hide_border=true&card_width=600&background=1D102E"/></a></p> 
 
 ## Technologies
 
 <p align="center">
 <a 
-    href="https://skillicons.dev"> <img align="center" src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,bootstrap,html,css,figma,vscode"/></a></p>
+    href="https://kamrulhasan-1e064.web.app"> <img align="center" src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,bootstrap,html,css,figma,vscode"/></a></p>
     
 ## Overview
 
 <div align="center"
     flex-wrap:wrap;" ><img src="https://github-readme-stats.vercel.app/api?username=kamrulhasan833&show_icons=true"/>
-<a  href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasan833"/></a>
+<a  href="https://kamrulhasan-1e064.web.app"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasan833"/></a>
 </div>
 
 ## Social
