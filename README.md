@@ -1,4 +1,4 @@
-[![An old rock in the desert](./assets/images/gitHubBanner.jpg "Shiprock, New Mexico by Beau Rogers")](https://kamrulhasan-1e064.web.app)
+[![An old rock in the desert](./assets/images/gitHubBanner.jpg "Shiprock, New Mexico by Beau Rogers")](https://kamrulhasanportfolio.vercel.app/))
 
 ### Hi there 👋, Kamrul Hasan
 
@@ -12,13 +12,13 @@ Results-driven MERN Stack Web Developer with a passion for creating dynamic and 
 ## Streak Stats
 
 <p align="center"><a
-   href="https://kamrulhasan-1e064.web.app"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=dark&hide_border=true&card_width=600&background=1D102E"/></a></p> 
+   href="https://kamrulhasanportfolio.vercel.app"> <img src="https://github-readme-streak-stats.herokuapp.com?user=kamrulhasan833&theme=dark&hide_border=true&card_width=600&background=1D102E"/></a></p> 
 
 ## Technologies
 
 <p align="center">
 <a 
-    href="https://kamrulhasan-1e064.web.app"> <img align="center" src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,bootstrap,html,css,figma,vscode"/></a></p>
+    href="https://kamrulhasanportfolio.vercel.app"> <img align="center" src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,firebase,bootstrap,html,css,figma,vscode"/></a></p>
     
 ## Overview
 
