@@ -1,4 +1,4 @@
-[![An old rock in the desert](./assets/images/gitHubBanner.jpg "Shiprock, New Mexico by Beau Rogers")](https://kamrulhasanportfolio.vercel.app/))
+[![An old rock in the desert](./assets/images/gitHubBanner.jpg "Shiprock, New Mexico by Beau Rogers")](https://kamrulhasanportfolio.vercel.app/)
 
 ### Hi there 👋, Kamrul Hasan
 
